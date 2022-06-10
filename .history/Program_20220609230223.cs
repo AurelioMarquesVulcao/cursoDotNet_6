@@ -5,4 +5,3 @@ Console.WriteLine("Hello, World!");
 
 
 var textLine = ColorConsole.WithBlueText;
-textLine.WriteLine("Hello, World!");

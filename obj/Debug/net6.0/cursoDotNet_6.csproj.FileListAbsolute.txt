@@ -13,3 +13,5 @@
 /Users/vulcao/meta/cursoDotNet_6/obj/Debug/net6.0/cursoDotNet_6.pdb
 /Users/vulcao/meta/cursoDotNet_6/obj/Debug/net6.0/cursoDotNet_6.genruntimeconfig.cache
 /Users/vulcao/meta/cursoDotNet_6/obj/Debug/net6.0/ref/cursoDotNet_6.dll
+/Users/vulcao/meta/cursoDotNet_6/bin/Debug/net6.0/FluentColorConsole.dll
+/Users/vulcao/meta/cursoDotNet_6/obj/Debug/net6.0/cursoDotNet_6.csproj.CopyComplete
