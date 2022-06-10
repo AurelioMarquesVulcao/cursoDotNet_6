@@ -1,37 +1,11 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {
-      "FluentColorConsole/2.0.1": {
-        "type": "package",
-        "compile": {
-          "lib/netstandard2.0/FluentColorConsole.dll": {}
-        },
-        "runtime": {
-          "lib/netstandard2.0/FluentColorConsole.dll": {}
-        }
-      }
-    }
+    "net6.0": {}
   },
-  "libraries": {
-    "FluentColorConsole/2.0.1": {
-      "sha512": "beOQn9r0EEDvhvt1nKzUFFlDNPQ13qgdxLpIG21Ewn/8HmyWa4sM8DJcZ7ish17ZEnQJUs9IHvkb29BowUEsuQ==",
-      "type": "package",
-      "path": "fluentcolorconsole/2.0.1",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "fluentcolorconsole.2.0.1.nupkg.sha512",
-        "fluentcolorconsole.nuspec",
-        "lib/netstandard2.0/FluentColorConsole.dll",
-        "lib/netstandard2.0/FluentColorConsole.xml"
-      ]
-    }
-  },
+  "libraries": {},
   "projectFileDependencyGroups": {
-    "net6.0": [
-      "FluentColorConsole >= 2.0.1"
-    ]
+    "net6.0": []
   },
   "packageFolders": {
     "/Users/vulcao/.nuget/packages/": {}
@@ -69,12 +43,6 @@
     "frameworks": {
       "net6.0": {
         "targetAlias": "net6.0",
-        "dependencies": {
-          "FluentColorConsole": {
-            "target": "Package",
-            "version": "[2.0.1, )"
-          }
-        },
         "imports": [
           "net461",
           "net462",
@@ -86,6 +54,9 @@
         "assetTargetFallback": true,
         "warn": true,
         "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }

@@ -1,8 +1,6 @@
-﻿// See https://aka.ms/new-console-template for more information
-using FluentColorConsole;
+var builder = WebApplication.CreateBuilder(args);
+var app = builder.Build();
 
-Console.WriteLine("Hello, World!");
+app.MapGet("/", () => "Hello World!");
 
-
-var textLine = ColorConsole.WithBlueText;
-textLine.WriteLine("Hello, World!");
+app.Run();

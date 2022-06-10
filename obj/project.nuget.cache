@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lbO6fstrNuH08rPZLBB/EqM6G36APbwE6toJeg2JOFJAzBATZhzqntOAGx2XBAOQJyicMOukPth1hE/pGE956A==",
+  "dgSpecHash": "sED1tFN9oxEuaZuAoR7KgzoipMU8Y44FoG48qCF7QL4ZbN8jehl1I2fJ2DXMv+0+47TPsyoILSc2Y15sX8eNNQ==",
   "success": true,
   "projectFilePath": "/Users/vulcao/meta/cursoDotNet_6/cursoDotNet_6.csproj",
-  "expectedPackageFiles": [
-    "/Users/vulcao/.nuget/packages/fluentcolorconsole/2.0.1/fluentcolorconsole.2.0.1.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }
